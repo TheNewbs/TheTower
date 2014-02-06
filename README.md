@@ -4,14 +4,14 @@ THE TOWER
 (STABLE RELEASE v0.1) - DESIGNED FOR GCA4
 
 Team
-======
+=
 Jeff Codling - Coordinator
 Austin Coombes-Reid - Artist
 Jason Preston - Programer
 Scott Melanson - Programmer
 
 Special Thanks
-======
+=
 Nicolas Gramich - Developer of AndEngine
 Leonard Payne - Assosciate Professor at Lambton College
 
