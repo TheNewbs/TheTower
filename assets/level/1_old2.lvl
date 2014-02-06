@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="2048" height="800">
+	<entity x="0" y="0" type="platform2" />
+	<entity x="2048" y="0" type="platform2" />
+	<entity x="0" y="0" type="platform1" />
+	<entity x="100" y="0" type="platform1" />
+	<entity x="200" y="0" type="platform1" />
+	<entity x="300" y="0" type="platform1" />
+	<entity x="400" y="0" type="platform1" />
+	<entity x="500" y="0" type="platform1" />
+	<entity x="600" y="0" type="platform1" />
+	<entity x="700" y="0" type="platform1" />
+	<entity x="800" y="0" type="platform1" />
+	<entity x="900" y="0" type="platform1" />
+	<entity x="1000" y="0" type="platform1" />
+	<entity x="1100" y="0" type="platform1" />
+	<entity x="1200" y="0" type="platform1" />
+	<entity x="1300" y="0" type="platform1" />
+	<entity x="1400" y="0" type="platform1" />
+	<entity x="1500" y="0" type="platform1" />
+	<entity x="1600" y="0" type="platform1" />
+	<entity x="1700" y="0" type="platform1" />
+	<entity x="1800" y="0" type="platform1" />
+	<entity x="1900" y="0" type="platform1" />
+	<entity x="0" y="30" type="platform3" />
+	<entity x="136" y="30" type="platform3" />
+	<entity x="272" y="30" type="platform3" />
+	<entity x="408" y="30" type="platform3" />
+	<entity x="544" y="30" type="platform3" />
+	<entity x="680" y="30" type="platform3" />
+	<entity x="816" y="30" type="platform3" />
+	<entity x="952" y="30" type="platform3" />
+	<entity x="1088" y="30" type="platform3" />
+	<entity x="1224" y="30" type="platform3" />
+	<entity x="1360" y="30" type="platform3" />
+	<entity x="1496" y="30" type="platform3" />
+	<entity x="1632" y="30" type="platform3" />
+	<entity x="1768" y="30" type="platform3" />
+	<entity x="1904" y="30" type="platform3" />
+	
+	<entity x="200" y="140" type="enemy" />
+	<entity x="60" y="140" type="player" />
+</level>
