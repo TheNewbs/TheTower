@@ -19,6 +19,10 @@ Description
 ======
 You are a knight named Markus and you were sent to clear a tower of demons.  Use the on-screen controls to move and jump (attacking is a W.I.P.).
 
+Stable Version
+======
+A working .apk file exists within the Bin folder.  Simply drop it into your Android device and it will run!
+
 Features
 ======
 Moving left!
