@@ -1,4 +1,4 @@
-=THE TOWER (STABLE RELEASE v0.1) - DESIGNED FOR GCA4=
+==THE TOWER (STABLE RELEASE v0.1) - DESIGNED FOR GCA4==
 
 ==Team==
 Jeff Codling - Coordinator
